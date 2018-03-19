@@ -1,8 +1,8 @@
 {
-  "name": "file-uploader",
+  "name": "file-uploader-schema",
   "dependencies": {
     "mongoose": "^5.0.7",
     "mongoose-timestamp": "^0.6.0"
   },
-  "main": "index.js"
+  "main": "index.git js"
 }
